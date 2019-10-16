@@ -1,0 +1,6 @@
+/* body{
+    background-color: blue;
+} */
+table thead th{
+    color: blue !important;
+}
